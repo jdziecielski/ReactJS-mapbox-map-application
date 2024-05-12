@@ -1,13 +1,14 @@
-<<<<<<< HEAD
 # ReactJS-mapbox-map-application
 A ReactJS web app using LocationIQ and Mapbox APIs.
 =======
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ReactJS web application using mapbox and locationiq APIs, used to search for locations from the world and save them as markers. Used library MUI for UI, local storage to persevere data across refreshes and reenters on the page.
 
-Currently, two official plugins are available:
+For application to work:
+  - download source code and all necessary modules
+  - change maboxgl.accessToken from null to the key from https://www.mapbox.com/ (free limited version) 
+  - change apikey from null to the key from https://locationiq.com/ (free limited version)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
->>>>>>> 6829e30 (initial commit)
+![1](https://github.com/jdziecielski/ReactJS-mapbox-map-application/assets/106883711/eb59682f-b9f5-4c8c-85d2-b88958d86d0a)
+![2](https://github.com/jdziecielski/ReactJS-mapbox-map-application/assets/106883711/61a935b4-765c-4c08-8084-3e756338efe8)
+![3](https://github.com/jdziecielski/ReactJS-mapbox-map-application/assets/106883711/3d525102-3903-4506-83dd-55fef7cb54ef)
